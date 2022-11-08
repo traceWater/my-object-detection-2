@@ -39,12 +39,16 @@ This is a desktop version website created for my first AI using "tensorflow-mode
     <td><b>Desktop</td>     
   </tr>
 
-  
+   <tr>
+    <td valign="top"><img width="1427" alt="experience" src="https://user-images.githubusercontent.com/100964288/196821622-04166f37-a001-4179-95c0-10204ec5e2c9.png" />
+  </td>
+  </tr>
 
   
   
   <tr>
-    <td valign="top"><img width="1427" alt="experience" src="https://user-images.githubusercontent.com/100964288/196821622-04166f37-a001-4179-95c0-10204ec5e2c9.png" />
+    <td valign="top"><img width="840" alt="bbox" src="https://user-images.githubusercontent.com/100964288/200647711-27f62902-abcf-4e02-99d8-4b455928a60b.png">
+" />
   </td>
   </tr>
   
