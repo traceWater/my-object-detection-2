@@ -43,7 +43,8 @@ This is a desktop version website created for my first AI using "tensorflow-mode
   </tr>
 
   <tr>
-    <td valign="top"><img width="1434" alt="landing" src="https://user-images.githubusercontent.com/100964288/196820807-6edf8c62-a181-431a-9427-8cea89c6e070.png" />
+    <td valign="top"><img width="1434" alt="landing"![horse-river](https://user-images.githubusercontent.com/100964288/200639595-467d565e-1da3-4cdd-afe3-fffccab3d56f.jpg)
+ " />
   </td>
   </tr>
 
