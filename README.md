@@ -1,7 +1,5 @@
 # [my-object-detection-2](https://github.com/traceWater/my-object-detection-2.git/)
 
-
-
 ## Table of contents
 
   - [Overview](#overview)
@@ -9,21 +7,16 @@
   - [Links](#links)
   - [Design](#designs)
   - [Screenshots](#screenshots)
-  - [My process](#my-process)
-  - [What We Learned](#what-I-learned) 
+  - [What I Learned](#what-I-learned) 
 
 ## Author
-
 
 - **Dale Cottrell - Software Engineer**
 
   - [my-portfolio-z](https://github.com/traceWater/my-portfolio-z.git/)
-  - [mina-project](https://github.com/traceWater/mina-project.git/)
-  - [aw-game-5](https://github.com/traceWater/aw-game-5.git/)
   - [my-object-detection-2](https://github.com/traceWater/my-object-detection-2.git/)
   - [LinkedIn](https://www.linkedin.com/in/dale-cottrell-82b900246/)
   
-
 ## Overview
 
 This is a desktop version website created for my first AI using "tensorflow-models and Coco ssd".
@@ -39,7 +32,7 @@ This is a desktop version website created for my first AI using "tensorflow-mode
     <td><b>Desktop</td>     
   </tr>
 
-   <tr>
+  <tr>
     <td valign="top"><img width="840" alt="bbox" src="https://user-images.githubusercontent.com/100964288/200647711-27f62902-abcf-4e02-99d8-4b455928a60b.png" />
   </td>
   </tr>
@@ -64,11 +57,9 @@ This is a desktop version website created for my first AI using "tensorflow-mode
 ### Links
 
 - Repository URL: [https://github.com/traceWater/my-object-detection-2.git/](https://github.com/traceWater/my-object-detection-2.git/)
-- Live Site URL: [https://my-portfolio2.netlify.app/](https://my-portfolio2.0.netlify.app/)
 
-## Our process
 
-**Frontend**
+** AI **
 
 - HTML markup
 - CSS styled components
