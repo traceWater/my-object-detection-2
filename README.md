@@ -1,6 +1,4 @@
-# [my-object-detection-2](https://github.com/traceWater/my-object-detection-2.git/)
-
-## Table of contents
+# Table of contents
 
   - [Overview](#overview)
   - [The challenge](#the-challenge)
