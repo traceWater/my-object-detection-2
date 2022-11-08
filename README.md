@@ -17,13 +17,10 @@
 
 - **Dale Cottrell - Software Engineer**
 
-  [my-portfolio2.0](https://github.com/traceWater/my-portfolio2.0.git/)
-  [mix-dale-dev](https://github.com/traceWater/mixcellence.git/)
-  [mina-project](https://github.com/traceWater/mina-project.git/)
-  [aw-game-3](https://github.com/traceWater/aw-game-5.git/)
-  [my-object-detection-2](https://github.com/traceWater/my-object-detection-2.git/)
-  [01-testing](https://github.com/traceWater/01-testing.git/)
-
+  - [my-portfolio-z](https://github.com/traceWater/my-portfolio-z.git/)
+  - [mina-project](https://github.com/traceWater/mina-project.git/)
+  - [aw-game-5](https://github.com/traceWater/aw-game-5.git/)
+  - [my-object-detection-2](https://github.com/traceWater/my-object-detection-2.git/)
   - [LinkedIn](https://www.linkedin.com/in/dale-cottrell-82b900246/)
   
 
@@ -45,8 +42,7 @@ This is a desktop version website created for my first AI using "tensorflow-mode
   
 
   <tr>
-    <td valign="top"><img width="1425" alt="about" src="![horse-river](https://user-images.githubusercontent.com/100964288/200640108-14ed9739-3204-40f2-a5f0-fb60dca289f8.jpg)
-" />
+    <td valign="top"><img width="1425" alt="about" src="https://user-images.githubusercontent.com/100964288/200640108-14ed9739-3204-40f2-a5f0-fb60dca289f8.png" />
   </td>
   </tr>
   
