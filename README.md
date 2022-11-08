@@ -42,14 +42,11 @@ This is a desktop version website created for my first AI using "tensorflow-mode
     <td><b>Desktop</td>     
   </tr>
 
-  <tr>
-    <td valign="top"><img width="1434" alt="landing"![horse-river](https://user-images.githubusercontent.com/100964288/200639595-467d565e-1da3-4cdd-afe3-fffccab3d56f.jpg)
- " />
-  </td>
-  </tr>
+  
 
   <tr>
-    <td valign="top"><img width="1425" alt="about" src="https://user-images.githubusercontent.com/100964288/196832631-65214748-7d7b-41b8-acb4-f3fc150dcaa5.png" />
+    <td valign="top"><img width="1425" alt="about" src="![horse-river](https://user-images.githubusercontent.com/100964288/200640108-14ed9739-3204-40f2-a5f0-fb60dca289f8.jpg)
+" />
   </td>
   </tr>
   
